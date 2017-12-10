@@ -1,0 +1,5 @@
+data:
+ valid_username:   'tomsmith'
+ invalid_username: 'teste'
+ valid_password:   'SuperSecretPassword!'
+ invalid_password: 'teste'
